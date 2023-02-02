@@ -12,5 +12,6 @@ Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
 
    escreva("Olá Mundo!")
+   escreva("Modificando")
 
 Fimalgoritmo
