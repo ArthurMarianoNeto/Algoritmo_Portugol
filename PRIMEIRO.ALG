@@ -13,5 +13,6 @@ Inicio
 
    escreva("Olá Mundo!")
 
+   escreva("Modificado")
 
 Fimalgoritmo
